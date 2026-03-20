@@ -43,7 +43,7 @@ export default function PulsingCircle() {
           </defs>
           <text className="text-sm fill-white/80">
             <textPath href="#circle" startOffset="0%">
-              Маркетплейс · СБП · Доставка · Маркетплейс ·
+              UMI.CMS · 28 модулей · Бизнес · UMI.CMS ·
             </textPath>
           </text>
         </motion.svg>
